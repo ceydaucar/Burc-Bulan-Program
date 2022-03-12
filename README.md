@@ -1,5 +1,5 @@
 # Burc-Bulan-Program
-Patika.dev > Java101 > Koşullu İfadeler ve Kod Blokları > Pratik5 - Burç Bulan Program
+Patika.dev > Java101 > Koşullu İfadeler ve Kod Blokları > Pratik6 - Burç Bulan Program
 
 ## Aynı örneği switch-case kullanmadan yapınız.
 - Koç Burcu : 21 Mart - 20 Nisan
